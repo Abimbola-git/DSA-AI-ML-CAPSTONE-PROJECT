@@ -9,7 +9,8 @@ Steps to Implement the Project
 2.	Data Collected
 
 •   Data Sources:
-    #### Sources: Gather data from reliable sources such as:
+
+  #### Sources: Gather data from reliable sources such as:
   ##### Government agricultural departments
   ##### Market reports
   ##### Agricultural commodity exchanges
