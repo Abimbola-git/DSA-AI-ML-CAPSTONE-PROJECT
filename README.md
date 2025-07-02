@@ -17,11 +17,11 @@ Steps to Implement the Project
   ##### Online APIs (e.g.,(https://www.kaggle.com/code/rjayshree/agricultural-products-sale-analysis-prediction/notebook), FAO)
 
 •   Data Points: Collect data on:
-#####   Historical prices
-#####   Weather conditions
-#####   Crop yield
-#####   Supply chain factors
-#####   Economic indicators
+  -  Historical prices
+  -  Weather conditions
+  -  Crop yield
+  -  Supply chain factors
+  -  Economic indicators
 
 3.	  Data Preprocessing
 #####   Cleaning: Handle missing values, remove duplicates, and clean anomalies.
