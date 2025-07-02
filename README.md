@@ -6,10 +6,10 @@ DSA AI/ML CAPSTONE PROJECT
 Objective: To predict the market prices of agricultural products using historical data and machine learning algorithms.
 Steps to Implement the Project
 
-# 	  Data Collected
+## 	  Data Collected
 
-## Data Sources:
-## Sources: Gather data from reliable sources such as:
+### Data Sources:
+#### Sources: Gather data from reliable sources such as:
  Government agricultural departments
  Market reports
  Agricultural commodity exchanges
