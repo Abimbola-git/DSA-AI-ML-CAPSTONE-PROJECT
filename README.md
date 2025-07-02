@@ -20,7 +20,8 @@ Steps to Implement the Project
   -  Supply chain factors
   -  Economic indicators
 
-3.	  Data Preprocessing
+3.	  Data Preparation
+   -   Data Import: Load the data using libraries like Pandas.
    -   Cleaning: Handle missing values, remove duplicates, and clean anomalies.
    -   Transformation: Normalize or standardize features as needed.
    -   Feature Engineering: Create new features that might help in prediction (e.g., moving averages, seasonal indicators).
@@ -62,10 +63,9 @@ Steps to Implement the Project
    - Set up alerts for significant deviations in predictions.
 
 •Tools and Technologies
- Programming Language: Python
- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras (for deep learning)
- Database: MySQL, PostgreSQL, or NoSQL options like MongoDB
- Deployment: Docker, Heroku, or cloud platforms like AWS
+    - Programming Language: Python
+ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+ Environment: Jupyter Notebook or Google Colab for interactive explorationS
 
 Conclusion
 This project can greatly benefit farmers, traders, and policymakers by providing insights into price trends, helping them make informed decisions. 
