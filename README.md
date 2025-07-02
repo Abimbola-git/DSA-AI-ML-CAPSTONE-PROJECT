@@ -66,7 +66,7 @@ Steps to Implement the Project
 •Tools and Technologies
     - Programming Language: Python
     - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-    - Environment: Jupyter Notebook or Google Colab for interactive explorationS
+    - Environment: Jupyter Notebook or Google Colab for interactive explorations
 
 Conclusion
 This project can greatly benefit farmers, traders, and policymakers by providing insights into price trends, helping them make informed decisions. 
