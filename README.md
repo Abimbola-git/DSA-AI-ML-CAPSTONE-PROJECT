@@ -1,14 +1,14 @@
 # DSA-AI-ML-CAPSTONE-PROJECT
 DSA AI/ML CAPSTONE PROJECT
-Project Overview
+
+1.	  Project Overview
 
 Objective: To predict the market prices of agricultural products using historical data and machine learning algorithms.
 Steps to Implement the Project
 
-Data Collected.
+2.	  Data Collected
 
 • Data Sources:
-
  Sources: Gather data from reliable sources such as:
  Government agricultural departments
  Market reports
@@ -22,16 +22,17 @@ Data Collected.
 • Supply chain factors
 • Economic indicators
 
-• Data Preprocessing
+3.	  Data  Preprocessing
 • Cleaning: Handle missing values, remove duplicates, and clean anomalies.
 • Transformation: Normalize or standardize features as needed.
 • Feature Engineering: Create new features that might help in prediction (e.g., moving averages, seasonal indicators).
 
-• Exploratory Data Analysis (EDA)
+4.    Exploratory Data Analysis (EDA)
+  
 • Visualize the data to identify trends, patterns, and correlations.
 • Use graphs like line plots, histograms, and scatter plots to analyze relationships between features.
 
-• Model Selection
+5.    Model Selection
 o Choose appropriate machine learning algorithms such as:
 o Linear Regression
 o Decision Trees
@@ -40,27 +41,28 @@ o Gradient Boosting Machines (GBM)
 o LSTM (for time series data)
 o Split the dataset into training and testing sets (e.g., 80/20 split).
 
-•Model Training
-Train selected models using the training dataset.
-Use cross-validation to ensure the model's robustness.
 
-•Model Evaluation
-Evaluate the model using metrics like:
-Mean Absolute Error (MAE)
-Mean Squared Error (MSE)
-R-squared value
-Compare results from different models to find the best performer.
+6.    Model Training
+ Train selected models using the training dataset.
+ Use cross-validation to ensure the model's robustness.
 
-•Hyperparameter Tuning
-Optimize model parameters using techniques such as Grid Search or Random Search.
+7.    Model Evaluation
+ Evaluate the model using metrics like:
+ Mean Absolute Error (MAE)
+ Mean Squared Error (MSE)
+ R-squared value
+ Compare results from different models to find the best performer.
 
-•Deployment
-Deploy the model using web frameworks (e.g., Flask, Django) or cloud services (e.g., AWS, Azure).
-Create a user interface for users to input data and receive price predictions.
+8.    Hyperparameter Tuning
+ Optimize model parameters using techniques such as Grid Search or Random Search.
 
-•Monitoring and Maintenance
-Continuously monitor model performance and update with new data.
-Set up alerts for significant deviations in predictions.
+9.    Deployment
+ Deploy the model using web frameworks (e.g., Flask, Django) or cloud services (e.g., AWS, Azure).
+ Create a user interface for users to input data and receive price predictions.
+
+10.    Monitoring and Maintenance
+ Continuously monitor model performance and update with new data.
+ Set up alerts for significant deviations in predictions.
 
 •Tools and Technologies
  Programming Language: Python
