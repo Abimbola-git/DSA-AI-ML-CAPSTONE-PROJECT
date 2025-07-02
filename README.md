@@ -1,5 +1,5 @@
 # DSA-AI-ML-CAPSTONE-PROJECT
-DSA AI/ML CAPSTONE PROJECT
+Project Topic - Market Price Prediction for Agricultural Products
 
 1	  Project Overview
 
@@ -24,6 +24,7 @@ Steps to Implement the Project
    -   Data Import: Load the data using libraries like Pandas.
    -   Cleaning: Handle missing values, remove duplicates, and clean anomalies.
    -   Transformation: Normalize or standardize features as needed.
+   -   Data Types: Ensure all columns have the correct data types (e.g., dates as datetime objects).
    -   Feature Engineering: Create new features that might help in prediction (e.g., moving averages, seasonal indicators).
 
 4.    Exploratory Data Analysis (EDA)
@@ -64,8 +65,8 @@ Steps to Implement the Project
 
 •Tools and Technologies
     - Programming Language: Python
- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
- Environment: Jupyter Notebook or Google Colab for interactive explorationS
+    - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+    - Environment: Jupyter Notebook or Google Colab for interactive explorationS
 
 Conclusion
 This project can greatly benefit farmers, traders, and policymakers by providing insights into price trends, helping them make informed decisions. 
