@@ -1,7 +1,7 @@
 # DSA-AI-ML-CAPSTONE-PROJECT
 DSA AI/ML CAPSTONE PROJECT
 
-1.	  Project Overview
+1	  Project Overview
 
 Objective: To predict the market prices of agricultural products using historical data and machine learning algorithms.
 Steps to Implement the Project
