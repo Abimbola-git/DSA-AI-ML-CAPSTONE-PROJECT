@@ -30,8 +30,8 @@ Steps to Implement the Project
 
 4.    Exploratory Data Analysis (EDA)
   
-• Visualize the data to identify trends, patterns, and correlations.
-• Use graphs like line plots, histograms, and scatter plots to analyze relationships between features.
+=   Visualize the data to identify trends, patterns, and correlations.
+   Use graphs like line plots, histograms, and scatter plots to analyze relationships between features.
 
 5.    Model Selection
 o Choose appropriate machine learning algorithms such as:
