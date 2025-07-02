@@ -30,36 +30,36 @@ Steps to Implement the Project
    -  Use graphs like line plots, histograms, and scatter plots to analyze relationships between features.
 
 5.    Model Selection
-o Choose appropriate machine learning algorithms such as:
-o Linear Regression
-o Decision Trees
-o Random Forest
-o Gradient Boosting Machines (GBM)
-o LSTM (for time series data)
-o Split the dataset into training and testing sets (e.g., 80/20 split).
+   - Choose appropriate machine learning algorithms such as:
+   - Linear Regression
+   - Decision Trees
+   - Random Forest
+   - Gradient Boosting Machines (GBM)
+   - LSTM (for time series data)
+   - Split the dataset into training and testing sets (e.g., 80/20 split).
 
 
 6.    Model Training
- Train selected models using the training dataset.
- Use cross-validation to ensure the model's robustness.
+   - Train selected models using the training dataset.
+   - Use cross-validation to ensure the model's robustness.
 
 7.    Model Evaluation
- Evaluate the model using metrics like:
- Mean Absolute Error (MAE)
- Mean Squared Error (MSE)
- R-squared value
- Compare results from different models to find the best performer.
+   - Evaluate the model using metrics like:
+   - Mean Absolute Error (MAE)
+   - Mean Squared Error (MSE)
+   - R-squared value
+   - Compare results from different models to find the best performer.
 
 8.    Hyperparameter Tuning
- Optimize model parameters using techniques such as Grid Search or Random Search.
+   - Optimize model parameters using techniques such as Grid Search or Random Search.
 
 9.    Deployment
- Deploy the model using web frameworks (e.g., Flask, Django) or cloud services (e.g., AWS, Azure).
- Create a user interface for users to input data and receive price predictions.
+   - Deploy the model using web frameworks (e.g., Flask, Django) or cloud services (e.g., AWS, Azure).
+   - Create a user interface for users to input data and receive price predictions.
 
 10.    Monitoring and Maintenance
- Continuously monitor model performance and update with new data.
- Set up alerts for significant deviations in predictions.
+   - Continuously monitor model performance and update with new data.
+   - Set up alerts for significant deviations in predictions.
 
 •Tools and Technologies
  Programming Language: Python
