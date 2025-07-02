@@ -21,9 +21,9 @@ Steps to Implement the Project
   -  Economic indicators
 
 3.	  Data Preprocessing
-#####   Cleaning: Handle missing values, remove duplicates, and clean anomalies.
-#####   Transformation: Normalize or standardize features as needed.
-#####   Feature Engineering: Create new features that might help in prediction (e.g., moving averages, seasonal indicators).
+   -   Cleaning: Handle missing values, remove duplicates, and clean anomalies.
+   -   Transformation: Normalize or standardize features as needed.
+   -   Feature Engineering: Create new features that might help in prediction (e.g., moving averages, seasonal indicators).
 
 4.    Exploratory Data Analysis (EDA)
   
