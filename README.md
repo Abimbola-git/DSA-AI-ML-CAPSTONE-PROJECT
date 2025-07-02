@@ -10,7 +10,7 @@ Steps to Implement the Project
 
 ### Data Sources:
 #### Sources: Gather data from reliable sources such as:
- Government agricultural departments
+###### Government agricultural departments
  Market reports
  Agricultural commodity exchanges
  Online APIs (e.g.,(https://www.kaggle.com/code/rjayshree/agricultural-products-sale-analysis-prediction/notebook), FAO)
